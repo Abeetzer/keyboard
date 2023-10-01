@@ -1,5 +1,9 @@
 # This is my implementation of the Tanuki 40% keyboard 
 ## by SethSenpai(link: https://github.com/SethSenpai/Tanuki)
+
+# Changes I have made:
+1. I included laser-cut files that are actually proportional to the PCB. To check if that is the case, you can open the PCB as a 3D object in any CAD and compare the two to see if it's a fit.
+2. I have included a demo of my keyboard working on YouTube. You can find it here: https://youtu.be/Ap3haO5QyRQ (this is a link for an early progress check which includes a version of the keyboard) and a final demo https://www.youtube.com/shorts/Dwnyfzi2zBw
 ### Materials and Assembly
 
 These are not instructions. Keep in mind that you can change anything you like if you think it will work!
