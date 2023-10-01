@@ -1,4 +1,5 @@
-# Tanuki 40% keyboard
+# This is my implementation of the Tanuki 40% keyboard 
+## by SethSenpai(link: https://github.com/SethSenpai/Tanuki)
 ### Materials and Assembly
 
 These are not instructions. Keep in mind that you can change anything you like if you think it will work!
